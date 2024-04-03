@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1712042227781,
+      "tag": "0000_outgoing_vector",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1712056522967,
+      "tag": "0001_minor_korvac",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1712057901685,
+      "tag": "0002_lowly_mister_sinister",
+      "breakpoints": true
+    }
+  ]
+}

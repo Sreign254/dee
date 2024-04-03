@@ -34,3 +34,16 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+
+DATABASE_URL=postgres://postgres.jgnhapulnstmwsjxkfqd:@aws-0-eu-central-1.pooler.supabase.com:5432/postgres
+NEXT_PUBLIC_SUPABASE_URL=https://jgnhapulnstmwsjxkfqd.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImpnbmhhcHVsbnN0bXdzanhrZnFkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTE5ODk1ODEsImV4cCI6MjAyNzU2NTU4MX0.U3Fum9F6lq0LobnxJUX8gHexUcPJY7k3wpsgtFqK5ZI
+SERVICE_ROLE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImpnbmhhcHVsbnN0bXdzanhrZnFkIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTcxMTk4OTU4MSwiZXhwIjoyMDI3NTY1NTgxfQ.r1QfHIpCrG2FcrJi1mWBjwuNSBZYFuPjunEj8CXiw90
+PW=Sharonemmy@password200
+NEXT_PUBLIC_SITE_URL=
+
+
+NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=
+STRIPE_SECRET_KEY=
+STRIPE_WEBHOOK_SECRET=
